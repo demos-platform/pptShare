@@ -1,7 +1,7 @@
 ### How to use
 
 ```
-yarn add nodeppt
+npm install nodeppt -g
 nodeppt start
 ```
 
